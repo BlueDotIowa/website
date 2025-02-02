@@ -11,8 +11,25 @@
     </image>
     <generator>Hugo -- 0.139.4</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Feb 2025 16:12:39 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 16:24:20 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Iowa Legislator Info</title>
+      <link>http://localhost:1313/posts/iowa-legislator-info/</link>
+      <pubDate>Sun, 02 Feb 2025 16:24:20 -0600</pubDate>
+      <guid>http://localhost:1313/posts/iowa-legislator-info/</guid>
+      <description>&lt;h1 id=&#34;find-your-iowa-legislator&#34;&gt;Find your Iowa Legislator&lt;/h1&gt;
+&lt;p&gt;Click &lt;a href=&#34;https://www.legis.iowa.gov/legislators/find&#34;&gt;here&lt;/a&gt; to use the Iowa Legislature&amp;rsquo;s &lt;em&gt;Find Your Legislator&lt;/em&gt; tool.  By entering your address you can find your state and federal senators and representatives.&lt;/p&gt;
+&lt;h1 id=&#34;send-mail-to-your-iowa-legislator&#34;&gt;Send mail to your Iowa Legislator&lt;/h1&gt;
+&lt;p&gt;Address letters to:
+The Honorable &lt;insert name&gt;
+Iowa Senate &lt;em&gt;or&lt;/em&gt; Iowa House of Representatives
+Iowa State Capitol
+1007 E Grand Ave
+Des Moines, IA 50319&lt;/p&gt;
+&lt;h1 id=&#34;interactive-district-map&#34;&gt;Interactive District Map&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://iowa-legis.maps.arcgis.com/apps/instant/lookup/index.html?appid=28fae60ae9ec4718b1c7ced53294590c&#34;&gt;This map&lt;/a&gt; allows you to click on a location to see the relevant senators and representatives.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Advice</title>
       <link>http://localhost:1313/posts/advice/</link>
