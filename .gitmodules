@@ -1,0 +1,3 @@
+[submodule "BlueDotIowa/themes/PaperMod"]
+	path = BlueDotIowa/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
