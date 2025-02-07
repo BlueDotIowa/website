@@ -6,7 +6,6 @@ title = 'Resources'
 
 # Organizations to Support
 
----
 ## Political Action
 ### Better Ballot Iowa ([www.betterballotiowa.org](https://www.betterballotiowa.org))
 Advocating for Ranked Choice Voting in Iowa
@@ -16,7 +15,6 @@ Fighting Corruption and Gerrymandering
 
 ### Johnson County Democrats ([jcdems.org](https://jcdems.org))
 
----
 ## Iowa Legislator Info
 ### Find your Iowa Legislator
 Click [here](https://www.legis.iowa.gov/legislators/find) to use the Iowa Legislature's _Find Your Legislator_ tool.  By entering your address you can find your state and federal senators and representatives.
@@ -32,12 +30,14 @@ Des Moines, IA 50319
 ### Interactive District Map
 [This map](https://iowa-legis.maps.arcgis.com/apps/instant/lookup/index.html?appid=28fae60ae9ec4718b1c7ced53294590c) allows you to click on a location to see the relevant senators and representatives.
 
----
 ## Immigration
 ### Immigrant Welcome Network of Johnson County ([iwnjc.org](https://iwnjc.org))
 Empowering new beginnings for immigrants and refugees
 
----
+### Immigrant Legal Resource Center ([ilrc.org](https://www.ilrc.org))
+Red Cards are available for download [here](https://www.ilrc.org/red-cards-tarjetas-rojas)
+
+
 ## Strengthenting Communities
 ### United Action for Youth ([unitedactionforyouth.org](https://unitedactionforyouth.org))
 Currently looking for volunteers and donations
@@ -48,7 +48,6 @@ Upcoming book drive at the library
 ### People's CDC ([peoplescdc.org](https://peoplescdc.org))
 A CDC watchdog and public health advocacy and health justice group
 
----
 ## LGBTQ Rights
 ### One Iowa Acton ([oneiowaaction.org](https://oneiowaaction.org))
 One Iowa Action works to preserve and advance the rights of lesbian, gay, bisexual, transgender and queer/questioning (LGBTQ) Iowans through grassroots efforts, policy work, voter education, and advocacy.
@@ -59,7 +58,6 @@ Users can sign up for alerts online
 One Iowa is a catalyst for improving the lives of LGBTQ Iowans.
 
 
----
 ## Direct Action 
 ### Women's March ([womensmarch.com](https://womensmarch.com))
 Women’s March is building a base of feminists to end sexism, sexist exploitation, and oppression. By 2050, we will be a feminist-led movement that ensures anyone and everyone has the freedom to lead empowered lives in safety and security in their bodies, in their communities, and throughout the country.
