@@ -63,12 +63,12 @@ tocopen = false
   imageTitle = "Blue Dot"
 
     [[params.profileMode.buttons]]
-    name = "Posts"
-    url = "posts"
+    name = "TAKE ACTION"
+    url = "/posts/take-action"
 
-#    [[params.profileMode.buttons]]
-#    name = "Tags"
-#    url = "tags"
+    [[params.profileMode.buttons]]
+    name = "Resources"
+    url = "/posts/resources"
 
   [params.homeInfoParams]
   Title = "Hi there 👋"
@@ -112,34 +112,28 @@ tocopen = false
   keys = [ "title", "permalink", "summary", "content" ]
 
 [[menu.main]]
-identifier = "calendar"
-name = "Calendar"
-url = "/posts/calendar/"
-weight = 5
+identifier = "take-action"
+name = "TAKE ACTION"
+url = "/posts/take-action/"
+weight = 10
 
 [[menu.main]]
 identifier = "resources"
 name = "Resources"
 url = "/posts/resources/"
-weight = 10
-
-[[menu.main]]
-identifier = "take-action"
-name = "Take Action"
-url = "/posts/take-action/"
-weight = 10
-
-# [[menu.main]]
-# identifier = "tags"
-# name = "tags"
-# url = "/tags/"
-# weight = 20
+weight = 20
 
 [[menu.main]]
 identifier = "bluesky"
 name = "BlueSky"
 url = "https://bsky.app/profile/bluedotiniowa.bsky.social"
 weight = 30
+
+[[menu.main]]
+identifier = "calendar"
+name = "Calendar"
+url = "/posts/calendar/"
+weight = 40
 
 [markup.highlight]
 noClasses = false
