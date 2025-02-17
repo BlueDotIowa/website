@@ -112,15 +112,21 @@ tocopen = false
   keys = [ "title", "permalink", "summary", "content" ]
 
 [[menu.main]]
+identifier = "calendar"
+name = "Calendar"
+url = "/posts/calendar/"
+weight = 5
+
+[[menu.main]]
 identifier = "resources"
 name = "Resources"
 url = "/posts/resources/"
 weight = 10
 
 [[menu.main]]
-identifier = "advice"
-name = "Advice"
-url = "/posts/advice/"
+identifier = "take-action"
+name = "Take Action"
+url = "/posts/take-action/"
 weight = 10
 
 # [[menu.main]]
