@@ -38,14 +38,14 @@ The Honorable Charles Grassley\
 United States Senate\
 Washington, DC 20510
 
-The Honorable Joni Ernst\
-United States Senate\
-Washington, DC 20510
-
 Senator Joni Ernst\
 733 Federal Building
 210 Walnut Street\
 Des Moines, IA 50309
+
+The Honorable Joni Ernst\
+United States Senate\
+Washington, DC 20510
 
 ## Make A Phone Call
 Use [5Calls](https://5calls.org).  Spend 5 minutes, make 5 calls.  The easiest way for constituents to make an impact.
