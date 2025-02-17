@@ -27,6 +27,7 @@ defaultTheme = "auto"
 disableThemeToggle = false
 ShowReadingTime = true
 ShowShareButtons = false
+#ShareButtons = ["bluesky", "reddit"]
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = false
