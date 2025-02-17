@@ -11,23 +11,60 @@
     </image>
     <generator>Hugo -- 0.139.4</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Feb 2025 16:12:39 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2025 16:12:39 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Advice</title>
-      <link>http://localhost:1313/posts/advice/</link>
+      <title>Calendar</title>
+      <link>http://localhost:1313/posts/calendar/</link>
+      <pubDate>Sun, 16 Feb 2025 16:12:39 -0600</pubDate>
+      <guid>http://localhost:1313/posts/calendar/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;mailto:bluedotiowa@outlook.com&#34;&gt;Send us info&lt;/a&gt; to have items added to the calendar.&lt;/p&gt;
+&lt;iframe src=&#34;https://calendar.online/9b6d362cf0471a2586ac&#34; width=&#34;1200px&#34; height=&#34;900px&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Iowa Legislator Info</title>
+      <link>http://localhost:1313/posts/iowa-legislator-info/</link>
+      <pubDate>Sun, 02 Feb 2025 16:24:20 -0600</pubDate>
+      <guid>http://localhost:1313/posts/iowa-legislator-info/</guid>
+      <description>&lt;h1 id=&#34;find-your-iowa-legislator&#34;&gt;Find your Iowa Legislator&lt;/h1&gt;
+&lt;p&gt;Click &lt;a href=&#34;https://www.legis.iowa.gov/legislators/find&#34;&gt;here&lt;/a&gt; to use the Iowa Legislature&amp;rsquo;s &lt;em&gt;Find Your Legislator&lt;/em&gt; tool.  By entering your address you can find your state and federal senators and representatives.&lt;/p&gt;
+&lt;h1 id=&#34;send-mail-to-your-iowa-legislator&#34;&gt;Send mail to your Iowa Legislator&lt;/h1&gt;
+&lt;p&gt;Address letters to:
+The Honorable &lt;insert name&gt;
+Iowa Senate &lt;em&gt;or&lt;/em&gt; Iowa House of Representatives
+Iowa State Capitol
+1007 E Grand Ave
+Des Moines, IA 50319&lt;/p&gt;
+&lt;h1 id=&#34;interactive-district-map&#34;&gt;Interactive District Map&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://iowa-legis.maps.arcgis.com/apps/instant/lookup/index.html?appid=28fae60ae9ec4718b1c7ced53294590c&#34;&gt;This map&lt;/a&gt; allows you to click on a location to see the relevant senators and representatives.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Take Action</title>
+      <link>http://localhost:1313/posts/take-action/</link>
       <pubDate>Sun, 02 Feb 2025 16:12:39 -0600</pubDate>
-      <guid>http://localhost:1313/posts/advice/</guid>
-      <description>&lt;h2 id=&#34;advice&#34;&gt;Advice&lt;/h2&gt;
+      <guid>http://localhost:1313/posts/take-action/</guid>
+      <description>&lt;h2 id=&#34;write-thank-you-postcards&#34;&gt;Write Thank-You Postcards&lt;/h2&gt;
+&lt;p&gt;The Rt Revd Mariann Edgar Budde&lt;br&gt;
+Episcopal Church House&lt;br&gt;
+Mount St. Alban&lt;br&gt;
+Washington, DC 20016-5094&lt;/p&gt;
+&lt;p&gt;Ron Vachris&lt;br&gt;
+c/o Costco Wholesale&lt;br&gt;
+PO Box 34331&lt;br&gt;
+Seattle, WA 98124&lt;/p&gt;
+&lt;h2 id=&#34;buy-banned-books&#34;&gt;Buy banned books&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://pen.org/banned-books-list-2025/&#34;&gt;Pen.org&lt;/a&gt; has a list of the Most Banned Books for 2025.&lt;/p&gt;
+&lt;h2 id=&#34;add-yourself-to-the-who-email-list-online&#34;&gt;Add yourself to the WHO email list online&lt;/h2&gt;
+&lt;p&gt;Subscribe to WHO newsletters &lt;a href=&#34;https://www.who.int/news-room/newsletters&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;mindful-shopping&#34;&gt;Mindful shopping&lt;/h2&gt;
+&lt;p&gt;Use &lt;a href=&#34;https://progressiveshopper.com&#34;&gt;ProgressiveShopper.com&lt;/a&gt; to focus support to blue businesses.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;buy-banned-books&#34;&gt;Buy banned books&lt;/h3&gt;
-&lt;h3 id=&#34;stock-up-pantry&#34;&gt;Stock up pantry&lt;/h3&gt;
-&lt;h3 id=&#34;add-yourself-to-the-who-email-list-online&#34;&gt;Add yourself to the WHO email list online&lt;/h3&gt;
-&lt;h3 id=&#34;mindful-shopping&#34;&gt;Mindful shopping&lt;/h3&gt;
-&lt;p&gt;Make sure to focus support to specific products&lt;/p&gt;
-&lt;h3 id=&#34;watch-for-_moms-for-liberty_-in-schools-and-counter-actions&#34;&gt;Watch for &lt;em&gt;Moms for Liberty&lt;/em&gt; in schools and counter actions&lt;/h3&gt;
-&lt;h3 id=&#34;political-support&#34;&gt;Political support&lt;/h3&gt;
-&lt;p&gt;Postcards to voter states (local, midterms, etc) and political candidate support (&lt;a href=&#34;https://Angie.com&#34;&gt;Angie.com&lt;/a&gt;)&lt;/p&gt;</description>
+&lt;h1 id=&#34;make-your-voice-heard&#34;&gt;Make Your Voice Heard&lt;/h1&gt;
+&lt;h2 id=&#34;write-your-us-senators&#34;&gt;Write your US Senators&lt;/h2&gt;
+&lt;p&gt;Senator Charles Grassley&lt;br&gt;
+721 Federal Building&lt;br&gt;
+210 Walnut Street&lt;br&gt;
+Des Moines, IA 50309&lt;/p&gt;</description>
     </item>
     <item>
       <title>Resources</title>
@@ -36,9 +73,14 @@
       <guid>http://localhost:1313/posts/resources/</guid>
       <description>&lt;h1 id=&#34;organizations-to-support&#34;&gt;Organizations to Support&lt;/h1&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;political-action&#34;&gt;Political Action&lt;/h2&gt;
-&lt;h3 id=&#34;better-ballot-iowa-wwwbetterballotiowaorghttpswwwbetterballotiowaorg&#34;&gt;Better Ballot Iowa (&lt;a href=&#34;https://www.betterballotiowa.org&#34;&gt;www.betterballotiowa.org&lt;/a&gt;)&lt;/h3&gt;
-&lt;p&gt;Advocating for Ranked Choice Voting in Iowa&lt;/p&gt;
+&lt;h3 id=&#34;immigrant-legal-resource-center-ilrcorghttpswwwilrcorg&#34;&gt;Immigrant Legal Resource Center (&lt;a href=&#34;https://www.ilrc.org&#34;&gt;ilrc.org&lt;/a&gt;)&lt;/h3&gt;
+&lt;p&gt;Red Cards are available for download &lt;a href=&#34;https://www.ilrc.org/red-cards-tarjetas-rojas&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;united-action-for-youth-unitedactionforyouthorghttpsunitedactionforyouthorg&#34;&gt;United Action for Youth (&lt;a href=&#34;https://unitedactionforyouth.org&#34;&gt;unitedactionforyouth.org&lt;/a&gt;)&lt;/h3&gt;
+&lt;p&gt;Currently looking for volunteers and donations&lt;/p&gt;
+&lt;h3 id=&#34;one-iowa-acton-oneiowaactionorghttpsoneiowaactionorg&#34;&gt;One Iowa Acton (&lt;a href=&#34;https://oneiowaaction.org&#34;&gt;oneiowaaction.org&lt;/a&gt;)&lt;/h3&gt;
+&lt;p&gt;Can sign up for alerts online&lt;/p&gt;
+&lt;h3 id=&#34;one-iowa-oneiowaorghttpsoneiowaorg&#34;&gt;One Iowa (&lt;a href=&#34;https://oneiowa.org&#34;&gt;oneiowa.org&lt;/a&gt;)&lt;/h3&gt;
+&lt;h3 id=&#34;johnson-county-dems-jcdemsorghttpsjcdemsorg&#34;&gt;Johnson County Dems (&lt;a href=&#34;https://jcdems.org&#34;&gt;jcdems.org&lt;/a&gt;)&lt;/h3&gt;
 &lt;h3 id=&#34;represent-us-representushttpsrepresentus&#34;&gt;Represent Us (&lt;a href=&#34;https://represent.us&#34;&gt;represent.us&lt;/a&gt;)&lt;/h3&gt;
 &lt;p&gt;Fighting Corruption and Gerrymandering&lt;/p&gt;
 &lt;h3 id=&#34;johnson-county-democrats-jcdemsorghttpsjcdemsorg&#34;&gt;Johnson County Democrats (&lt;a href=&#34;https://jcdems.org&#34;&gt;jcdems.org&lt;/a&gt;)&lt;/h3&gt;
