@@ -27,6 +27,7 @@ defaultTheme = "auto"
 disableThemeToggle = false
 ShowReadingTime = true
 ShowShareButtons = false
+#ShareButtons = ["bluesky", "reddit"]
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = false
@@ -63,12 +64,12 @@ tocopen = false
   imageTitle = "Blue Dot"
 
     [[params.profileMode.buttons]]
-    name = "Posts"
-    url = "posts"
+    name = "Resources"
+    url = "/posts/resources"
 
-#    [[params.profileMode.buttons]]
-#    name = "Tags"
-#    url = "tags"
+    [[params.profileMode.buttons]]
+    name = "Advice"
+    url = "/posts/advice"
 
   [params.homeInfoParams]
   Title = "Hi there 👋"
