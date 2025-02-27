@@ -119,22 +119,28 @@ url = "/posts/take-action/"
 weight = 10
 
 [[menu.main]]
+identifier = "know-your-rights"
+name = "Know Your Rights"
+url = "/posts/know-your-rights"
+weight = 20
+
+[[menu.main]]
 identifier = "resources"
 name = "Resources"
 url = "/posts/resources/"
-weight = 20
+weight = 30
 
 [[menu.main]]
 identifier = "bluesky"
 name = "BlueSky"
 url = "https://bsky.app/profile/bluedotiniowa.bsky.social"
-weight = 30
+weight = 40
 
 [[menu.main]]
 identifier = "calendar"
 name = "Calendar"
 url = "/posts/calendar/"
-weight = 40
+weight = 50
 
 [markup.highlight]
 noClasses = false
