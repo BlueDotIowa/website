@@ -142,6 +142,12 @@ name = "Calendar"
 url = "/posts/calendar/"
 weight = 50
 
+[[menu.main]]
+identifier = "miller-meeks-postcards"
+name = "Miller-Meeks Postcards"
+url = "/posts/miller-meeks-postcards/"
+weight = 60
+
 [markup.highlight]
 noClasses = false
 
